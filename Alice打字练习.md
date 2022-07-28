@@ -890,15 +890,7 @@ haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
 
 
 
------
-
-[汉语高频词练习目标](https://max.book118.com/html/2018/1213/6031151055001235.shtm)（待练习）
-
-
-
-
-
-
+### 2022-07-28打字练习
 
 先生
 
@@ -919,6 +911,20 @@ haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
 东西
 
 写
+
+
+
+-----
+
+[汉语高频词练习目标](https://max.book118.com/html/2018/1213/6031151055001235.shtm)（待练习）
+
+
+
+
+
+
+
+
 
 以后
 
