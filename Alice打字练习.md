@@ -892,7 +892,9 @@ haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
 
 ### 2022-07-28打字练习
 
-先生
+先生xiansheng xiansheng xiansheng xiansheng xiansheng, xiansheng xiansheng xiansheng xiansheng xiansheng.
+
+xiansheng xiansheng xiansheng xiansheng xiansheng, xiansheng xiansheng xiansheng xiansheng xiansheng.
 
 住
 
