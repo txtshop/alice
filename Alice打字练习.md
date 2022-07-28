@@ -952,19 +952,23 @@ xie xie xie xie xie, xie xie xie xie xie.
 
 xie xie xie xie xie, xie xie xie xie xie.
 
+### 2022-07-28订正
+
+工作
+
+gongzuo gongzuo gongzuo gongzuo gongzuo, gongzuo gongzuo gongzuo gongzuo gongzuo.
+
+gongzuo gongzuo gongzuo gongzuo gongzuo, gongzuo gongzuo gongzuo gongzuo gongzuo.
+
+谁
+
+shui shui shui shui shui, shui shui shui shui shui.
+
+shui shui shui shui shui, shui shui shui shui shui.
 
 
------
 
-[汉语高频词练习目标](https://max.book118.com/html/2018/1213/6031151055001235.shtm)（待练习）
-
-
-
-
-
-
-
-
+### 2022-07-29打字练习
 
 以后
 
@@ -985,6 +989,22 @@ xie xie xie xie xie, xie xie xie xie xie.
 笑
 
 大家
+
+
+
+-----
+
+[汉语高频词练习目标](https://max.book118.com/html/2018/1213/6031151055001235.shtm)（待练习）
+
+
+
+
+
+
+
+
+
+
 
 成
 
