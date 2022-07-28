@@ -892,27 +892,65 @@ haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
 
 ### 2022-07-28打字练习
 
-先生xiansheng xiansheng xiansheng xiansheng xiansheng, xiansheng xiansheng xiansheng xiansheng xiansheng.
+先生
 
 xiansheng xiansheng xiansheng xiansheng xiansheng, xiansheng xiansheng xiansheng xiansheng xiansheng.
 
-住
+xiansheng xiansheng xiansheng xiansheng xiansheng, xiansheng xiansheng xiansheng xiansheng xiansheng.
+
+住  
+
+zhu zhu zhu zhu zhu, zhu zhu zhu zhu zhu. 
+
+zhu zhu zhu zhu zhu, zhu zhu zhu zhu zhu.
 
 起
 
+qi qi qi qi qi, qi qi qi qi qi.
+
+qi qi qi qi qi, qi qi qi qi qi.
+
 可是
+
+keshi keshi keshi keshi keshi, keshi keshi keshi keshi keshi.
+
+keshi keshi keshi keshi keshi, keshi keshi keshi keshi keshi.
 
 今天
 
-工作
+jintian jintian jintian jintian jintian, jintian jintian jintian jintian jintian.
 
-谁
+jintian jintian jintian jintian jintian, jintian jintian jintian jintian jintian.
+
+工作 <font color="red">gongzuo</font> 
+
+gongzuou gongzuou gongzuou gongzuou gongzuou, gongzuou gongzuou gongzuou gongzuou gongzuou.
+
+gongzuou gongzuou gongzuou gongzuou gongzuou, gongzuou gongzuou gongzuou gongzuou gongzuou.
+
+谁 <font color="red">shui</font> 
+
+shei shei shei shei shei, shei shei shei shei shei.
+
+shei shei shei shei shei, shei shei shei shei shei.
 
 见
 
+jian jian jian jian jian, jian jian jian jian jian.
+
+jian jian jian jian jian, jian jian jian jian jian.
+
 东西
 
+dongxi dongxi dongxi dongxi dongxi, dongxi dongxi dongxi dongxi dongxi.
+
+dongxi dongxi dongxi dongxi dongxi, dongxi dongxi dongxi dongxi dongxi.
+
 写
+
+xie xie xie xie xie, xie xie xie xie xie.
+
+xie xie xie xie xie, xie xie xie xie xie.
 
 
 
