@@ -1048,43 +1048,149 @@ shui shui shui shui shui, shui shui shui shui shui.
 
 成
 
+cheng cheng cheng cheng cheng, cheng cheng cheng cheng cheng.
+
+cheng cheng cheng cheng cheng, cheng cheng cheng cheng cheng.
+
 开
+
+kai kai kai kai kai, kai kai kai kai kai.
+
+kai kai kai kai kai, kai kai kai kai kai.
 
 出来
 
+chulai chulai chulai chulai chulai, chulai chulai chulai chulai chulai.
+
+chulai chulai chulai chulai chulai, chulai chulai chulai chulai chulai.
+
 一样
 
-并
+yiyang yiyang yiyang yiyang yiyang, yiyang yiyang yiyang yiyang yiyang.
+
+yiyang yiyang yiyang yiyang yiyang, yiyang yiyang yiyang yiyang yiyang.
+
+并 
+
+bing bing bing bing bing, bing bing bing bing bing.
+
+bing bing bing bing bing, bing bing bing bing bing.
 
 妈妈
 
+ma ma ma ma ma, ma ma ma ma ma.
+
+ma ma ma ma ma, ma ma ma ma ma.
+
 月
+
+yue yue yue yue yue, yue yue yue yue yue.
+
+yue yue yue yue yue, yue yue yue yue yue.
 
 母亲
 
+muqing muqing muqing muqing muqing, muqing muqing muqing muqing muqing.
+
+muqing muqing muqing muqing muqing, muqing muqing muqing muqing muqing.
+
 前
 
-但是
+qian qian qian qian qian, qian qian qian qian qian.
+
+qian qian qian qian qian, qian qian qian qian qian.
+
+但是danshi danshi danshi danshi danshi, danshi danshi danshi danshi danshi.
+
+danshi danshi danshi danshi danshi, danshi danshi danshi danshi danshi.
+
+
+
+
+
+
+
+
+
+
+
+
 
 如果
 
+ruguo ruguo ruguo ruguo ruguo, ruguo ruguo ruguo ruguo ruguo.
+
+ruguo ruguo ruguo ruguo ruguo, ruguo ruguo ruguo ruguo ruguo.
+
 带
+
+dai dai dai dai dai, dai dai dai dai dai.
+
+dai dai dai dai dai, dai dai dai dai dai.
 
 地方
 
+difang difang difang difang difang, difang difang difang difang difang.
+
+difang difang difang difang difang, difang difang difang difang difang.
+
 还有
+
+haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
+
+haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
 
 回
 
+huei huei huei huei huei, huei huei huei huei huei.
+
+huei huei huei huei huei, huei huei huei huei huei.
+
 书
+
+shu shu shu shu shu, shu shu shu shu shu.
+
+shu shu shu shu shu, shu shu shu shu shu.
 
 快
 
-一定
+kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
+
+kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
+
+一定 
+
+yiding yiding yiding yiding yiding, yiding yiding yiding yiding yiding.
+
+yiding yiding yiding yiding yiding, yiding yiding yiding yiding yiding.
 
 喝
 
+he he he he he, he he he he he.
+
+he he he he he, he he he he he.
+
 件
+
+jian jian jian jian jian, jian jian jian jian jian.
+
+jian jian jian jian jian, jian jian jian jian jian.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 一起
 
