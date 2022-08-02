@@ -1136,15 +1136,15 @@ difang difang difang difang difang, difang difang difang difang difang.
 
 还有
 
-haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
+haiyou haiyou haiyou haiyou haiyou, haiyou haiyou haiyou haiyou haiyou.
 
-haishi haishi haishi haishi haishi, haih haishi haishi haishi haishi.
+haiyou haiyou haiyou haiyou haiyou, haiyou haiyou haiyou haiyou haiyou.
 
 回
 
-huei huei huei huei huei, huei huei huei huei huei.
+hui hui hui hui hui, hui hui hui hui hui.
 
-huei huei huei huei huei, huei huei huei huei huei.
+hui hui hui hui hui, hui hui hui hui hui.
 
 书
 
@@ -1194,23 +1194,79 @@ jian jian jian jian jian, jian jian jian jian jian.
 
 一起
 
+yiqi yiqi yiqi yiqi yiqi, yiqi yiqi yiqi yiqi yiqi.
+
+yiqi yiqi yiqi yiqi yiqi, yiqi yiqi yiqi yiqi yiqi.
+
 找
+
+zhiao zhiao zhiao zhiao zhiao, zhiao zhiao zhiao zhiao zhiao.
+
+zhiao zhiao zhiao zhiao zhiao, zhiao zhiao zhiao zhiao zhiao.
 
 世界
 
+shijie shijie shijie shijie shijie, shijie shijie shijie shijie shijie.
+
+shijie shijie shijie shijie shijie, shijie shijie shijie shijie shijie.
+
 新
+
+xing xing xing xing xing, xing xing xing xing xing.
+
+xing xing xing xing xing, xing xing xing xing xing.
 
 学习
 
+xuexi xuexi xuexi xuexi xuexi, xuexi xuexi xuexi xuexi xuexi.
+
+xuexi xuexi xuexi xuexi xuexi, xuexi xuexi xuexi xuexi xuexi.
+
 长
+
+zhang zhang zhang zhang zhang, zhang zhang zhang zhang zhang.
+
+zhang zhang zhang zhang zhang, zhang zhang zhang zhang zhang.
 
 所以
 
+suoyi suoyi suoyi suoyi suoyi, suoyi suoyi suoyi suoyi suoyi.
+
+suoyi suoyi suoyi suoyi suoyi, suoyi suoyi suoyi suoyi suoyi.
+
 学
+
+xue xue xue xue xue, xue xue xue xue xue.
+
+xue xue xue xue xue, xue xue xue xue xue.
 
 手
 
+shou shou shou shou shou, shou shou shou shou shou.
+
+shou shou shou shou shou, shou shou shou shou shou.
+
 非常
+
+feichang feichang feichang feichang feichang, feichang feichang feichang feichang feichang.
+
+feichang feichang feichang feichang feichang, feichang feichang feichang feichang feichang.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 看见
 
