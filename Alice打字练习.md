@@ -1044,7 +1044,7 @@ shui shui shui shui shui, shui shui shui shui shui.
 
 
 
-
+### 2022-07-31练习
 
 成
 
@@ -1114,7 +1114,7 @@ danshi danshi danshi danshi danshi, danshi danshi danshi danshi danshi.
 
 
 
-
+### 2022-08-01练习
 
 如果
 
@@ -1190,7 +1190,7 @@ jian jian jian jian jian, jian jian jian jian jian.
 
 
 
-
+### 2022-08-02练习
 
 一起
 
@@ -1198,11 +1198,11 @@ yiqi yiqi yiqi yiqi yiqi, yiqi yiqi yiqi yiqi yiqi.
 
 yiqi yiqi yiqi yiqi yiqi, yiqi yiqi yiqi yiqi yiqi.
 
-找
+<font color="red">找</font>
 
-zhiao zhiao zhiao zhiao zhiao, zhiao zhiao zhiao zhiao zhiao.
+zhao zhao zhao zhao zhao, zhao zhao zhao zhao zhao.
 
-zhiao zhiao zhiao zhiao zhiao, zhiao zhiao zhiao zhiao zhiao.
+zhao zhao zhao <font color="red">zhiao</font> zhao, zhao zhao zhao zhao zhao.
 
 世界
 
@@ -1212,9 +1212,9 @@ shijie shijie shijie shijie shijie, shijie shijie shijie shijie shijie.
 
 新
 
-xing xing xing xing xing, xing xing xing xing xing.
+xin xin xin xin xin, xin xin xin xin xin.
 
-xing xing xing xing xing, xing xing xing xing xing.
+xin xin xin xin xin, xin xin xin xin xin.                                                                                                                                                                      
 
 学习
 
@@ -1270,23 +1270,97 @@ feichang feichang feichang feichang feichang, feichang feichang feichang feichan
 
 看见
 
+kanjian kanjian kanjian kanjian kanjian, kanjian kanjian kanjian kanjian kanjian.
+
+kanjian kanjian kanjian kanjian kanjian, kanjian kanjian kanjian kanjian kanjian.
+
 那么
+
+name  name  name  name  name , name  name  name  name  name .
+
+name  name  name  name  name , name  name  name  name  name .
 
 使
 
+shi shi shi shi shi, shi shi shi shi shi.
+
+shi shi shi shi shi, shi shi shi shi shi.
+
 使得
+
+shide shide shide shide shide, shide shide shide shide shide.
+
+shide shide shide shide shide, shide shide shide shide shide.
 
 老
 
+lao lao lao lao lao, lao lao lao lao lao.
+
+lao lao lao lao lao, lao lao lao lao lao.
+
 头
+
+tou tou tou tou tou, tou tou tou tou tou.
+
+tou tou tou tou tou, tou tou tou tou tou.
 
 这种
 
-很多
+zhezhong zhezhong zhezhong zhezhong zhezhong, zhezhong zhezhong zhezhong zhezhong zhezhong.
+
+zhezhong zhezhong zhezhong zhezhong zhezhong, zhezhong zhezhong zhezhong zhezhong zhezhong.
+
+很多 
+
+henduo henduo henduo henduo henduo, henduo henduo henduo henduo henduo.
+
+henduo henduo henduo henduo henduo, henduo henduo henduo henduo henduo.
 
 道
 
+dao dao dao dao dao, dao dao dao dao dao.
+
+dao dao dao dao dao, dao dao dao dao dao.
+
 条
+
+tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
+
+tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 同学
 
