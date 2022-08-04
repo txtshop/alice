@@ -1342,6 +1342,78 @@ tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
 
 
 
+车
+
+che che che che che, che che che che che.
+
+che che che che che, che che che che che.
+
+将
+
+jiang jiang jiang jiang jiang, jiang jiang jiang jiang jiang.
+
+jiang jiang jiang jiang jiang, jiang jiang jiang jiang jiang.
+
+问题
+
+wenti wenti wenti wenti wenti, wenti wenti wenti wenti wenti.
+
+wenti wenti wenti wenti wenti, wenti wenti wenti wenti wenti.
+
+第一
+
+diyi diyi diyi diyi diyi, diyi diyi diyi diyi diyi.
+
+diyi diyi diyi diyi diyi, diyi diyi diyi diyi diyi.
+
+水
+
+shui shui shui shui shui, shui shui shui shui shui.
+
+shui shui shui shui shui, shui shui shui shui shui.
+
+送
+
+suong suong suong suong suong, suong suong suong suong suong.
+
+suong suong suong suong suong, suong suong suong suong suong.
+
+忙
+
+mang mang mang mang mang, mang mang mang mang mang.
+
+mang mang mang mang mang, mang mang mang mang mang.
+
+画
+
+hua hua hua hua hua, hua hua hua hua hua.
+
+hua hua hua hua hua, hua hua hua hua hua.
+
+就是
+
+jiou jiou jiou jiou jiou, jiou jiou jiou jiou jiou.
+
+jiou jiou jiou jiou jiou, jiou jiou jiou jiou jiou.
+
+块
+
+kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
+
+kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1382,6 +1454,12 @@ tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
 
 站
 
+
+
+
+
+
+
 车
 
 将
@@ -1401,6 +1479,18 @@ tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
 就是
 
 块
+
+
+
+
+
+
+
+
+
+
+
+
 
 语言
 
