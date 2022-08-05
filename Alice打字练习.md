@@ -1202,7 +1202,7 @@ yiqi yiqi yiqi yiqi yiqi, yiqi yiqi yiqi yiqi yiqi.
 
 zhao zhao zhao zhao zhao, zhao zhao zhao zhao zhao.
 
-zhao zhao zhao <font color="red">zhiao</font> zhao, zhao zhao zhao zhao zhao.
+zhao zhao zhao <font color="red">zhao</font> zhao, zhao zhao zhao zhao zhao.
 
 世界
 
@@ -1374,9 +1374,9 @@ shui shui shui shui shui, shui shui shui shui shui.
 
 送
 
-suong suong suong suong suong, suong suong suong suong suong.
+song song song song song, song song song song song.
 
-suong suong suong suong suong, suong suong suong suong suong.
+song song song song song, song song song song song.
 
 忙
 
@@ -1392,9 +1392,9 @@ hua hua hua hua hua, hua hua hua hua hua.
 
 就是
 
-jiou jiou jiou jiou jiou, jiou jiou jiou jiou jiou.
+jioushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi.
 
-jiou jiou jiou jiou jiou, jiou jiou jiou jiou jiou.
+jioushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi.
 
 块
 
@@ -1403,6 +1403,68 @@ kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
 kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
 
 
+
+
+
+同学
+
+tongxue tongxue tongxue tongxue tongxue, tongxue tongxue tongxue tongxue tongxue.
+
+tongxue tongxue tongxue tongxue tongxue, tongxue tongxue tongxue tongxue tongxue.
+
+许多
+
+xuduo xuduo xuduo xuduo xuduo, xuduo xuduo xuduo xuduo xuduo.
+
+xuduo xuduo xuduo xuduo xuduo, xuduo xuduo xuduo xuduo xuduo.
+
+爱
+
+ai ai ai ai ai, ai ai ai ai ai.
+
+ai ai ai ai ai, ai ai ai ai ai.
+
+一些
+
+yixie yixie yixie yixie yixie, yixie yixie yixie yixie yixie.
+
+yixie yixie yixie yixie yixie, yixie yixie yixie yixie yixie.
+
+这么
+
+zheme zheme zheme zheme zheme, zheme zheme zheme zheme zheme.
+
+zheme zheme zheme zheme zheme, zheme zheme zheme zheme zheme.
+
+汉语
+
+hanyu hanyu hanyu hanyu hanyu, hanyu hanyu hanyu hanyu hanyu.
+
+hanyu hanyu hanyu hanyu hanyu, hanyu hanyu hanyu hanyu hanyu.
+
+开始
+
+kaishi kaishi kaishi kaishi kaishi, kaishi kaishi kaishi kaishi kaishi.
+
+kaishi kaishi kaishi kaishi kaishi, kaishi kaishi kaishi kaishi kaishi.
+
+所
+
+suo suo suo suo suo, suo suo suo suo suo.
+
+suo suo suo suo suo, suo suo suo suo suo.
+
+回来
+
+hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.
+
+hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.
+
+站
+
+zhan zhan zhan zhan zhan, zhan zhan zhan zhan zhan.
+
+zhan zhan zhan zhan zhan, zhan zhan zhan zhan zhan.
 
 
 
