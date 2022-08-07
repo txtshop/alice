@@ -1266,7 +1266,7 @@ feichang feichang feichang feichang feichang, feichang feichang feichang feichan
 
 
 
-
+### 2022年08月03日
 
 看见
 
@@ -1340,7 +1340,7 @@ tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
 
 
 
-
+### 2022年08月04日
 
 车
 
@@ -1392,9 +1392,9 @@ hua hua hua hua hua, hua hua hua hua hua.
 
 就是
 
-<font color="red">jiushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi. </font>
+jiushi jiushi jiushi jiushi jiushi, jiushi jiushi jiushi jiushi
 
-<font color="red">jioushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi.</font>
+jiushi jiushi jiushi jiushi jiushi, jiushi jiushi jiushi jiushi jiushi.
 
 块
 
@@ -1404,7 +1404,7 @@ kuai kuai kuai kuai kuai, kuai kuai kuai kuai kuai.
 
 
 
-
+### 2022年08月05日
 
 同学
 
@@ -1454,11 +1454,11 @@ suo suo suo suo suo, suo suo suo suo suo.
 
 suo suo suo suo suo, suo suo suo suo suo.
 
-回来huilai
+回来
 
-<font color="red">hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.</font>
+huilai huilai huilai huilai huilai, huilai huilai huilai huilai huilai.
 
-<font color="red">hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.</font>
+huilai huilai huilai huilai huilai, huilai huilai huilai huilai huilai.
 
 站
 
@@ -1468,9 +1468,11 @@ zhan zhan zhan zhan zhan, zhan zhan zhan zhan zhan.
 
 
 
-
+### 2022年08月06日
 
 语言
+
+yuyan yuyan yuyan yuyan yuyan, yuyan yuyan yuyan yuyan yuyan.
 
 yuyan yuyan yuyan yuyan yuyan, yuyan yuyan yuyan yuyan yuyan.
 
@@ -1536,51 +1538,7 @@ buneng buneng buneng buneng buneng, buneng buneng buneng buneng buneng.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 2022年08月07日
 
 看到
 
@@ -1590,9 +1548,9 @@ kandao kandao kandao kandao kandao, kandao kandao kandao kandao kandao.
 
 正 zheng 
 
-<font color="red">zhen zhen zhen zhen zhen, zhen zhen zhen zhen zhen.</font>
+zheng zheng zheng zheng zheng, zheng zheng zheng zheng zheng.
 
-<font color="red">zhen zhen zhen zhen zhen, zhen zhen zhen zhen zhen.</font>
+zheng zheng zheng zheng zheng, zheng zheng zheng zheng zheng.
 
 花
 
@@ -1608,17 +1566,21 @@ ya ya ya ya ya, ya ya ya ya ya.
 
 后来
 
+houlai houlai houlai houlai houlai, houlia houlai houlai houlai houlai.
+
+houlai houlai houlai houlai houlai, houlai houlai houlai houlai houlai.
+
 二
 
 er er er er er, er er er er er.
 
 er er er er er, er er er er er.
 
-为什么weishenme 
+为什么
 
-<font color="red">weisheme weisheme weisheme weisheme weisheme, weisheme weisheme weisheme weisheme weisheme.</font>
+weishenme weishenme weishenme weishenme weishenme, weishenme weishenme weishenme weishenme weishenme.
 
-<font color="red">weisheme weisheme weisheme weisheme weisheme, weisheme weisheme weisheme weisheme weisheme.</font>
+weishenme weishenme weishenme weishenme weishenme, weishenme weishenme weishenme weishenme weishenme.
 
 有些
 
@@ -1633,6 +1595,8 @@ kankan kankan kankan kankan kankan, kankan kankan kankan kankan kankan.
 kankan kankan kankan kankan kankan, kankan kankan kankan kankan kankan.
 
 为了
+
+weile weile weile weile weile, weile weile weile weile weile.
 
 weile weile weile weile weile, weile weile weile weile weile.
 
