@@ -1392,9 +1392,9 @@ hua hua hua hua hua, hua hua hua hua hua.
 
 就是
 
-jioushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi.
+<font color="red">jiushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi. </font>
 
-jioushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi.
+<font color="red">jioushi jioushi jioushi jioushi jioushi, jioushi jioushi jioushi jioushi jioushi.</font>
 
 块
 
@@ -1454,101 +1454,17 @@ suo suo suo suo suo, suo suo suo suo suo.
 
 suo suo suo suo suo, suo suo suo suo suo.
 
-回来
+回来huilai
 
-hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.
+<font color="red">hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.</font>
 
-hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.
+<font color="red">hueilai hueilai hueilai hueilai hueilai, hueilai hueilai hueilai hueilai hueilai.</font>
 
 站
 
 zhan zhan zhan zhan zhan, zhan zhan zhan zhan zhan.
 
 zhan zhan zhan zhan zhan, zhan zhan zhan zhan zhan.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-同学
-
-许多
-
-爱
-
-一些
-
-这么
-
-汉语
-
-开始
-
-所
-
-回来
-
-站
-
-
-
-
-
-
-
-车
-
-将
-
-问题
-
-第一
-
-水
-
-送
-
-忙
-
-画
-
-就是
-
-块
-
-
-
-
-
-
-
-
 
 
 
@@ -1556,43 +1472,181 @@ zhan zhan zhan zhan zhan, zhan zhan zhan zhan zhan.
 
 语言
 
+yuyan yuyan yuyan yuyan yuyan, yuyan yuyan yuyan yuyan yuyan.
+
 告诉
+
+gaosu gaosu gaosu gaosu gaosu, gaosu gaosu gaosu gaosu gaosu.
+
+gaosu gaosu gaosu gaosu gaosu, gaosu gaosu gaosu gaosu gaosu.
 
 只有
 
+zhiyou zhiyou zhiyou zhiyou zhiyou, zhiyou zhiyou zhiyou zhiyou zhiyou.
+
+zhiyou zhiyou zhiyou zhiyou zhiyou, zhiyou zhiyou zhiyou zhiyou zhiyou.
+
 晚上
+
+wanshang wanshang wanshang wanshang wanshang, wanshang wanshang wanshang wanshang wanshang.
+
+wanshang wanshang wanshang wanshang wanshang, wanshang wanshang wanshang wanshang wanshang.
+
+
 
 已
 
+一一一一一， 一一一一y。
+
+ 一一一一一， yi一一一憶。
+
 儿子
+
+erzi erzi erzi erzi erzi, erzi erzi erzi erzi erzi.
+
+erzi erzi erzi erzi erzi, erzi erzi erzi erzi erzi.
 
 高兴
 
+gaoxing gaoxing gaoxing gaoxing gaoxing,
+
+gaoxing gaoxing gaoxing gaoxing gaoxing.
+
+gaoxing gaoxing gaoxing gaoxing gaoxing, 
+
+gaoxing gaoxing gaoxing gaoxing gaoxing.
+
 家里
+
+jiali jiali jiali jiali jiali, jiali jiali jiali jiali jiali.
+
+jiali jiali jiali jiali jiali, jiali jiali jiali jiali jiali.
 
 张
 
+zhang zhang zhang 张张， zhang zhang zhang zhang zhang.
+
+zhang zhang zhang zhang zhang, zhang zhang zhang zhang zhang.
+
 不能
+
+buneng buneng buneng buneng buneng, buneng buneng buneng buneng buneng.
+
+buneng buneng buneng buneng buneng, buneng buneng buneng buneng buneng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 看到
 
-正
+kandao kandao kandao kandao kandao, kandao kandao kandao kandao kandao.
+
+kandao kandao kandao kandao kandao, kandao kandao kandao kandao kandao.
+
+正 zheng 
+
+<font color="red">zhen zhen zhen zhen zhen, zhen zhen zhen zhen zhen.</font>
+
+<font color="red">zhen zhen zhen zhen zhen, zhen zhen zhen zhen zhen.</font>
 
 花
 
+hua hua hua hua hua, hua hua hua hua hua.
+
+hua hua hua hua hua, hua hua hua hua hua.
+
 呀
+
+ya ya ya ya ya, ya ya ya ya ya.
+
+ya ya ya ya ya, ya ya ya ya ya.
 
 后来
 
 二
 
-为什么
+er er er er er, er er er er er.
+
+er er er er er, er er er er er.
+
+为什么weishenme 
+
+<font color="red">weisheme weisheme weisheme weisheme weisheme, weisheme weisheme weisheme weisheme weisheme.</font>
+
+<font color="red">weisheme weisheme weisheme weisheme weisheme, weisheme weisheme weisheme weisheme weisheme.</font>
 
 有些
 
+youxie youxie youxie youxie youxie, youxie youxie youxie youxie youxie.
+
+youxie youxie youxie youxie youxie, youxie youxie youxie youxie youxie.
+
 看看
 
+kankan kankan kankan kankan kankan, kankan kankan kankan kankan kankan.
+
+kankan kankan kankan kankan kankan, kankan kankan kankan kankan kankan.
+
 为了
+
+weile weile weile weile weile, weile weile weile weile weile.
+
+
+
+
+
+
+
+
+
+
+
+
 
 学生
 
