@@ -1604,33 +1604,145 @@ weile weile weile weile weile, weile weile weile weile weile.
 
 
 
-
-
-
-
-
-
-
-
 学生
+
+xuesheng xuesheng xuesheng xuesheng xuesheng, xuesheng xuesheng xuesheng xuesheng xuesheng.
+
+xuesheng xuesheng xuesheng xuesheng xuesheng, xuesheng xuesheng xuesheng xuesheng xuesheng.
 
 门
 
+men men men men men, men men men men men.
+
+men men men men men, men men men men men.
+
 或
+
+huo huo huo huo huo, huo huo huo huo huo.
+
+huo huo huo huo huo, huo huo huo huo huo.
 
 这儿
 
+zheer zheer zheer zheer zheer, zheer zheer zheer zheer zheer.
+
+zheer zheer zheer zheer zheer, zheer zheer zheer zheer zheer.
+
 字
+
+zi zi zi zi zi, zi zi zi zi zi.
+
+zi zi zi zi zi, zi zi zi zi zi.
 
 别
 
+bie bie bei bei bei, bei bie bie bei bei.
+
+bie bie bei bei bei, bei bie bie bei bei.
+
 学校
+
+xuexiao xuexiao xuexiao xuexiao xuexiao, xuexiao xuexiao xuexiao xuexiao xuexiao.
+
+xuexiao xuexiao xuexiao xuexiao xuexiao, xuexiao xuexiao xuexiao xuexiao xuexiao.
 
 曰
 
+yue yue yue yue yue, yue yue yue yeu yue.
+
+yue yue yue yue yue, yue yue yue yeu yue.
+
 多少
 
+duoshao duoshao duoshao duoshao duoshao, duoshao duoshao duoshao duoshao duoshao.
+
+duoshao duoshao duoshao duoshao duoshao, duoshao duoshao duoshao duoshao duoshao.
+
 可能
+
+kenneng kenneng kenneng kenneng kenneng, kenneng kenneng kenneng kenneng kenneng.
+
+kenneng kenneng kenneng kenneng kenneng, kenneng kenneng kenneng kenneng kenneng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 虽然
 
