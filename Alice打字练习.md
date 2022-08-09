@@ -1668,6 +1668,66 @@ kenneng kenneng kenneng kenneng kenneng, kenneng kenneng kenneng kenneng kenneng
 
 
 
+发现
+
+faxian faxian faxian faxian faxian, faxian faxian faxian faxian faxian.
+
+faxian faxian faxian faxian faxian, faxian faxian faxian faxian faxian.
+
+句
+
+ju ju ju ju ju, ju ju ju ju ju.
+
+ju ju ju ju ju, ju ju ju ju ju.
+
+刚
+
+gang gang gang gang gang, gang gang gang gang gang.
+
+gang gang gang gang gang, gang gang gang gang gang.
+
+心里
+
+xingli xingli xingli xingli xingli, xingli xingli xingli xingli xingli.
+
+xingli xingli xingli xingli xingli, xingli xingli xingli xingli xingli.
+
+穿
+
+chuan chuan chuan chuan chuan, chuan chuan chuan chuan chuan.
+
+chuan chuan chuan chuan chuan, chuan chuan chuan chuan chuan.
+
+连
+
+lian lian lian lian lian, lian lian lian lian lian.
+
+lian lian lian lian lian, lian lian lian lian lian.
+
+远
+
+yuan yuan yuan yuan yuan, yuan yuan yuan yuan yuan.
+
+yuan yuan yuan yuan yuan, yuan yuan yuan yuan yuan.
+
+怎么样
+
+zenmeyang zenmeyang zenmeyang zenmeyang zenmeyang, zenmeyang zenmeyang zenmeyang zenmeyang zenmeyang.
+
+zenmeyang zenmeyang zenmeyang zenmeyang zenmeyang, zenmeyang zenmeyang zenmeyang zenmeyang zenmeyang.
+
+当然
+
+dangran dangran dangran dangran dangran, dangran dangran dangran dangran dangran.
+
+dangran dangran dangran dangran dangran, dangran dangran dangran dangran dangran.
+
+电话
+
+dianhua dianhua dianhua dianhua dianhua, dianhua dianhua dianhua dianhua dianhua.
+
+dianhua dianhua dianhua dianhua dianhua, dianhua dianhua dianhua dianhua dianhua.
+
 
 
 
@@ -1764,6 +1824,14 @@ kenneng kenneng kenneng kenneng kenneng, kenneng kenneng kenneng kenneng kenneng
 
 讲
 
+
+
+
+
+
+
+
+
 发现
 
 句
@@ -1783,6 +1851,12 @@ kenneng kenneng kenneng kenneng kenneng, kenneng kenneng kenneng kenneng kenneng
 当然
 
 电话
+
+
+
+
+
+
 
 一天
 
