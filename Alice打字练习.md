@@ -2,6 +2,14 @@
 
 ### 练习说明
 
+cd alice
+
+git add .
+
+git commit -m "upload"
+
+git push origin main
+
 对每个中文汉字打出拼音，以空格区分，练习20组，第5组时用逗号隔开，第10组时用句号隔开，然后回车。
 
 例如：
@@ -1732,7 +1740,65 @@ dianhua dianhua dianhua dianhua dianhua, dianhua dianhua dianhua dianhua dianhua
 
 
 
+声
 
+sheng sheng sheng sheng sheng, sheng sheng sheng sheng sheng.
+
+sheng sheng sheng sheng sheng, sheng sheng sheng sheng sheng.
+
+半
+
+ban ban ban ban ban, ban ban ban ban ban.
+
+ban ban ban ban ban, ban ban ban ban ban.
+
+人类
+
+renlei renlei renlei renlei renlei, renlei renlei renlei renlei renlei.
+
+renlei renlei renlei renlei renlei, renlei renlei renlei renlei renlei.
+
+本
+
+ben ben ben ben ben, ben ben ben ben ben.
+
+ben ben ben ben ben, ben ben ben ben ben.
+
+下来
+
+xialai xialai xialai xialai xialai, xialai xialai xialai xialai xialai.
+
+xialai xialai xialai xialai xialai, xialai xialai xialai xialai xialai.
+
+总
+
+zong zong zong zong zong, zong zong zong zong zong.
+
+zong zong zong zong zong, zong zong zong zong zong.
+
+历史
+
+lishi lishi lishi lishi lishi, lishi lishi lishi lishi lishi.
+
+lishi lishi lishi lishi lishi, lishi lishi lishi lishi lishi.
+
+明天
+
+mingtian mingtian mingtian mingtian mingtian, mingtian mingtian mingtian mingtian mingtian.
+
+mingtian mingtian mingtian mingtian mingtian, mingtian mingtian mingtian mingtian mingtian.
+
+五
+
+wu wu wu wu wu, wu wu wu wu wu.
+
+wu wu wu wu wu, wu wu wu wu wu.
+
+常常
+
+changchang changchang changchang changchang changchang, changchang changchang changchang changchang changchang.
+
+changchang changchang changchang changchang changchang, changchang changchang changchang changchang changchang.
 
 
 
@@ -1832,26 +1898,6 @@ dianhua dianhua dianhua dianhua dianhua, dianhua dianhua dianhua dianhua dianhua
 
 
 
-发现
-
-句
-
-刚
-
-心里
-
-穿
-
-连
-
-远
-
-怎么样
-
-当然
-
-电话
-
 
 
 
@@ -1897,6 +1943,10 @@ dianhua dianhua dianhua dianhua dianhua, dianhua dianhua dianhua dianhua dianhua
 五
 
 常常
+
+
+
+
 
 如
 
