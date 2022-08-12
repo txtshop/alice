@@ -1804,23 +1804,63 @@ changchang changchang changchang changchang changchang, changchang changchang ch
 
 虽然
 
+suiran suiran suiran suiran suiran, suiran suiran suiran suiran suiran.
+
+suiran suiran suiran suiran suiran, suiran suiran suiran suiran suiran.
+
 这里
+
+zheli zheli zheli zheli zheli, zheli zheli zheli zheli zheli.
+
+zheli zheli zheli zheli zheli, zheli zheli zheli zheli zheli.
 
 高
 
+gao gao gao gao gao, gao gao gao gao gao.
+
+gao gao gao gao gao, gao gao gao gao gao.
+
 只是
+
+zhishi zhishi zhishi zhishi zhishi, zhishi zhishi zhishi zhishi zhishi.
+
+zhishi zhishi zhishi zhishi zhishi, zhishi zhishi zhishi zhishi zhishi.
 
 放
 
+fang fang fang fang fang, fang fang fang fang fang.
+
+fang fang fang fang fang, fang fang fang fang fang.
+
 眼睛
+
+yanjing yanjing yanjing yanjing yanjing, yanjing yanjing yanjing yanjing yanjing.
+
+yanjing yanjing yanjing yanjing yanjing, yanjing yanjing yanjing yanjing yanjing.
 
 有的
 
+youde youde youde youde youde, youde youde youde youde youde.
+
+youde youde youde youde youde, youde youde youde youde youde.
+
 应该
+
+yinggai yinggai yinggai yinggai yinggai, yinggai yinggai yinggai yinggai yinggai.
+
+yinggai yinggai yinggai yinggai yinggai, yinggai yinggai yinggai yinggai yinggai.
 
 不过
 
+buguo buguo buguo buguo buguo, buguo buguo buguo buguo buguo.
+
+buguo buguo buguo buguo buguo, buguo buguo buguo buguo buguo.
+
 讲
+
+jiang jiang jiang jiang jiang, jiang jiang jiang jiang jiang.
+
+jiang jiang jiang jiang jiang, jiang jiang jiang jiang jiang.
 
 
 
@@ -1828,23 +1868,63 @@ changchang changchang changchang changchang changchang, changchang changchang ch
 
 一天
 
+yitian yitian yitian yitian yitian, yitian yitian yitian yitian yitian.
+
+yitian yitian yitian yitian yitian, yitian yitian yitian yitian yitian.
+
 每天
+
+meitian meitian meitian meitian meitian, meitian meitian meitian meitian meitian.
+
+meitian meitian meitian meitian meitian, meitian meitian meitian meitian meitian.
 
 哪
 
+na na na na na, na na na na na.
+
+na na na na na, na na na na na.
+
 咱们
+
+zanmei zanmei zanmei zanmei zanmei, zanmei zanmei zanmei zanmei zanmei.
+
+zanmei zanmei zanmei zanmei zanmei, zanmei zanmei zanmei zanmei zanmei.
 
 早
 
+zao zao zao zao zao, zao zao zao zao zao.
+
+zao zao zao zao zao, zao zao zao zao zao.
+
 妻子
+
+qizi qizi qizi qizi qizi, qizi qizi qizi qizi qizi.
+
+qizi qizi qizi qizi qizi, qizi qizi qizi qizi qizi.
 
 往
 
+wang wang wang wang wang, wang wang wang wang wang.
+
+wang wang wang wang wang, wang wang wang wang wang.
+
 不同
+
+butong butong butong butong butong, butong butong butong butong butong.
+
+butong butong butong butong butong, butong butong butong butong butong.
 
 谢谢
 
+xiexie xiexie xiexie xiexie xiexie, xiexie xiexie xiexie xiexie xiexie.
+
+xiexie xiexie xiexie xiexie xiexie, xiexie xiexie xiexie xiexie xiexie.
+
 有人
+
+youren youren youren youren youren, youren youren youren youren youren.
+
+youren youren youren youren youren, youren youren youren youren youren.
 
 ### 2022年08月13日
 
