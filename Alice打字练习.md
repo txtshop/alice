@@ -1930,23 +1930,65 @@ youren youren youren youren youren, youren youren youren youren youren.
 
 声
 
+sheng sheng sheng sheng sheng, sheng sheng sheng sheng sheng.
+
+sheng sheng sheng sheng sheng, sheng sheng sheng sheng sheng.
+
 半
+
+ban ban ban ban ban, ban ban ban ban ban.
+
+ban ban ban ban ban, ban ban ban ban ban.
 
 人类
 
+renlei renlei renlei renlei renlei, renlei renlei renlei renlei renlei.
+
+renlei renlei renlei renlei renlei, renlei renlei renlei renlei renlei.
+
 本
+
+ben ben ben ben ben, ben ben ben ben ben.
+
+ben ben ben ben ben, ben ben ben ben ben.
 
 下来
 
+xialai xialai xialai xialai xialai, xialai xialai xialai xialai xialai.
+
+xialai xialai xialai xialai xialai,xialai xialai xialai xialai xialai.
+
 总
+
+zong zong zong zong zong, zong zong zong zong zong.
+
+zong zong zong zong zong, zong zong zong zong zong.
 
 历史
 
+lishi lishi lishi lishi lishi, lishi lishi lishi lishi lishi.
+
+lishi lishi lishi lishi lishi, lishi lishi lishi lishi lishi.
+
 明天
+
+mingtian mingtian mingtian mingtian mingtian, mingtian mingtian mingtian mingtian mingtian.
+
+mingtian mingtian mingtian mingtian mingtian, mingtian mingtian mingtian mingtian mingtian.
 
 五
 
+wu wu wu wu wu, wu wu wu wu wu.
+
+wu wu wu wu wu, wu wu wu wu wu.
+
 常常
+
+changchang changchang changchang changchang changchang, changchang changchang changchang changchang changchang.
+
+changchang changchang changchang changchang changchang, changchang changchang changchang changchang changchang.
+
+
 
 
 
@@ -1954,45 +1996,125 @@ youren youren youren youren youren, youren youren youren youren youren.
 
 如
 
+ru ru ru ru ru, ru ru ru ru ru.
+
+ru ru ru ru ru, ru ru ru ru ru.
+
 少
+
+shao shao shao shao shao, shao shao shao shao shao.
+
+shao shao shao shao shao, shao shao shao shao shao.
 
 一边
 
+yibian yibian yibian yibian yibian, yibian yibian yibian yibian yibian.
+
+yibian yibian yibian yibian yibian, yibian yibian yibian yibian yibian.
+
 于
+
+yu yu yu yu yu, yu yu yu yu yu.
+
+yu yu yu yu yu, yu yu yu yu yu.
 
 忽然
 
+huran huran huran huran huran, huran huran huran huran huran.
+
+huran huran huran huran huran, huran huran huran huran huran.
+
 行
+
+xing xing xing xing xing, xing xing xing xing xing.
+
+xing xing xing xing xing, xing xing xing xing xing.
 
 一直
 
+yizhi yizhi yizhi yizhi yizhi, yizhi yizhi yizhi yizhi yizhi.
+
+yizhi yizhi yizhi yizhi yizhi, yizhi yizhi yizhi yizhi yizhi.
+
 别人
+
+bieren bieren bieren bieren bieren, bieren bieren bieren bieren bieren.
+
+bieren bieren bieren bieren bieren, bieren bieren bieren bieren bieren.
 
 然后
 
+ranhou ranhou ranhou ranhou ranhou, ranhou ranhou ranhou ranhou ranhou.
+
+ranhou ranhou ranhou ranhou ranhou, ranhou ranhou ranhou ranhou ranhou.
+
 或者
+
+huozhe huozhe huozhe huozhe huozhe, huozhe huozhe huozhe huozhe huozhe,
+
+huozhe huozhe huozhe huozhe huozhe, huozhe huozhe huozhe huozhe huozhe.
 
 ### 2022年08月15日
 
 衣服
 
+yifu yifu yifu yifu yifu, yifu yifu yifu yifu yifu.
+
+yifu yifu yifu yifu yifu, yifu yifu yifu yifu yifu.
+
 分
+
+fen fen fen fen fen, fen fen fen fen fen.
+
+fen fen fen fen fen, fen fen fen fen fen.
 
 该
 
+gai gai gai gai gai, gai gai gai gai gai.
+
+gai gai gai gai gai, gai gai gai gai gai.
+
 那个
+
+nage nage nage nage nage, nage nage nage nage nage.
+
+nage nage nage nage nage, nage nage nage nage nage.
 
 特别
 
+tebie tebie tebie tebie tebie tebie, tebie tebie tebie tebie tebie tebie.
+
+tebie tebie tebie tebie tebie tebie, tebie tebie tebie tebie tebie tebie.
+
 刚才
+
+gangcai gangcai gangcai gangcai gangcai gangcai, gangcai gangcai gangcai gangcai gangcai gangcai.
+
+gangcai gangcai gangcai gangcai gangcai gangcai, gangcai gangcai gangcai gangcai gangcai gangcai.
 
 过去
 
+guoqu guoqu guoqu guoqu guoqu, guoqu guoqu guoqu guoqu guoqu.
+
+guoqu guoqu guoqu guoqu guoqu, guoqu guoqu guoqu guoqu guoqu.
+
 汽车
+
+qiche qiche qiche qiche qiche, qiche qiche qiche qiche qiche.
+
+qiche qiche qiche qiche qiche, qiche qiche qiche qiche qiche.
 
 不要
 
+buyao buyao buyao buyao buyao, buyao buyao buyao buyao buyao.
+
+buyao buyao buyao buyao buyao, buyao buyao buyao buyao buyao.
+
 让开
+
+rangkai rangkai rangkai rangkai rangkai, rangkai rangkai rangkai rangkai rangkai.
+
+rangkai rangkai rangkai rangkai rangkai, rangkai rangkai rangkai rangkai rangkai.
 
 ### 2022年08月16日
 
@@ -2191,3 +2313,4 @@ youren youren youren youren youren, youren youren youren youren youren.
 那会
 
 似的
+
