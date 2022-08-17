@@ -2120,45 +2120,125 @@ rangkai rangkai rangkai rangkai rangkai, rangkai rangkai rangkai rangkai rangkai
 
 全
 
+quan quan quan quan quan, quan quan quan quan quan.
+
+quan quan quan quan quan, quan quan quan quan quan.
+
 常
+
+chang chang chang chang chang, chang chang chang chang chang.
+
+chang chang chang chang chang, chang chang chang chang chang.
 
 国家
 
+guojia guojia guojia guojia guojia, guojia guojia guojia guojia guojia.
+
+guojia guojia guojia guojia guojia, guojia guojia guojia guojia guojia.
+
 认为
+
+renwei renwei renwei renwei renwei, renwei renwei renwei renwei renwei.
+
+renwei renwei renwei renwei renwei, renwei renwei renwei renwei renwei.
 
 每
 
+mei mei mei mei mei, mei mei mei mei mei.
+
+mei mei mei mei mei, mei mei mei mei mei.
+
 然而
+
+raner raner raner raner raner, raner raner raner raner raner.
+
+raner raner raner ranerraner , raner raner raner raner raner.
 
 甲
 
+jia jia jia jia jia, jia jia jia jia jia.
+
+jia jia jia jia jia, jia jia jia jia jia.
+
 胜
+
+shen shen shen shen shen, shen shen shen shen shen.
+
+shen shen shen shen shen, shen shen shen shen shen.
 
 希望
 
+xiwang xiwang xiwang xiwang xiwang, xiwang xiwang xiwang xiwang xiwang.
+
+xiwang xiwang xiwang xiwang xiwang, xiwang xiwang xiwang xiwang xiwang.
+
 说话
+
+shuohua shuohua shuohua shuohua shuohua, shuohua shuohua shuohua shuohua shuohua.
+
+shuohua shuohua shuohua shuohua shuohua, shuohua shuohua shuohua shuohua shuohua.
 
 ### 2022年08月17日
 
 参加
 
+zanjia zanjia zanjia zanjia zanjia, zanjia zanjia zanjia zanjia zanjia.
+
+zanjia zanjia zanjia zanjia zanjia, zanjia zanjia zanjia zanjia zanjia.
+
 第二
+
+dier dier dier dier dier, dier dier dier dier dier.
+
+dier dier dier dier dier, dier dier dier dier dier.
 
 女儿
 
+nuer nuer nuer nuer nuer, nuer nuer nuer nuer nuer.
+
+nuer nuer nuer nuer nuer, nuer nuer nuer nuer nuer.
+
 原来
+
+yuanlai yuanlai yuanlai yuanlai yuanlai, yuanlai yuanlai yuanlai yuanlai yuanlai.
+
+yuanlai yuanlai yuanlai yuanlai yuanlai, yuanlai yuanlai yuanlai yuanlai yuanlai.
 
 菜
 
+cai cai cai cai cai cai, cai cai cai cai cai.
+
+cai cai cai cai cai cai, cai cai cai cai cai.
+
 口
+
+kou kou kou kou kou, kou kou kou kou kou.
+
+kou kou kou kou kou, kou kou kou kou kou.
 
 需要
 
+xuyao xuyao xuyao xuyao xuyao, xuyao xuyao xuyao xuyao xuyao.
+
+xuyao xuyao xuyao xuyao xuyao, xuyao xuyao xuyao xuyao xuyao.
+
 出去
+
+chuqu chuqu chuqu chuqu chuqu, chuqu chuqu chuqu chuqu chuqu.
+
+chuqu chuqu chuqu chuqu chuqu, chuqu chuqu chuqu chuqu chuqu.
 
 信
 
+xing xing xing xing xing, xing xing xing xing xing.
+
+xing xing xing xing xing, xing xing xing xing xing.
+
 座
+
+zuo zuo zuo zuo zuo, zuo zuo zuo zuo zuo.
+
+zuo zuo zuo zuo zuo, zuo zuo zuo zuo zuo.
 
 ### 2022年08月18日
 
