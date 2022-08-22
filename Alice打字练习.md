@@ -2160,11 +2160,11 @@ jia jia jia jia jia, jia jia jia jia jia.
 
 jia jia jia jia jia, jia jia jia jia jia.
 
-胜
+胜 sheng
 
-shen shen shen shen shen, shen shen shen shen shen.
+sheng sheng sheng sheng sheng, sheng sheng sheng sheng sheng.
 
-shen shen shen shen shen, shen shen shen shen shen.
+sheng sheng sheng sheng sheng, sheng sheng sheng sheng sheng.
 
 希望
 
@@ -2180,11 +2180,11 @@ shuohua shuohua shuohua shuohua shuohua, shuohua shuohua shuohua shuohua shuohua
 
 ### 2022年08月17日
 
-参加
+参加 canjia 
 
-zanjia zanjia zanjia zanjia zanjia, zanjia zanjia zanjia zanjia zanjia.
+canjia canjia canjia canjia canjia, canjia canjia canjia canjia canjia.
 
-zanjia zanjia zanjia zanjia zanjia, zanjia zanjia zanjia zanjia zanjia.
+canjia canjia canjia canjia canjia, canjia canjia canjia canjia canjia.
 
 第二
 
@@ -2192,11 +2192,11 @@ dier dier dier dier dier, dier dier dier dier dier.
 
 dier dier dier dier dier, dier dier dier dier dier.
 
-女儿
+女儿 nver
 
-nuer nuer nuer nuer nuer, nuer nuer nuer nuer nuer.
+nver nver nver nver nver, nver nver nver nver nver.
 
-nuer nuer nuer nuer nuer, nuer nuer nuer nuer nuer.
+nver nver nver nver nver, nver nver nver nver nver.
 
 原来
 
@@ -2228,11 +2228,11 @@ chuqu chuqu chuqu chuqu chuqu, chuqu chuqu chuqu chuqu chuqu.
 
 chuqu chuqu chuqu chuqu chuqu, chuqu chuqu chuqu chuqu chuqu.
 
-信
+信 xin
 
-xing xing xing xing xing, xing xing xing xing xing.
+xin xin xin xin xin, xin xin xin xin xin.
 
-xing xing xing xing xing, xing xing xing xing xing.
+xin xin xin xin xin, xin xin xin xin xin.
 
 座
 
@@ -2242,113 +2242,315 @@ zuo zuo zuo zuo zuo, zuo zuo zuo zuo zuo.
 
 ### 2022年08月18日
 
-身体
-
-自然
-
-唱
-
-好像
-
-一般
-
-干
-
-妈
-
-十分
-
-比较
-
-意思
-
-### 2022年08月19日
-
 越
+
+yue yue yue yue yue, yue yue yue yue yue.
+
+yue yue yue yue yue, yue yue yue yue yue.
 
 红
 
+hong hong hong hong hong, hong hong hong hong hong.
+
+hong hong hong hong hong, hong hong hong hong hong.
+
 啦
+
+la la la la la, la la la la la.
+
+la la la la la, la la la la la.
 
 想到
 
+xiangdao xiangdao xiangdao xiangdao xiangdao, xiangdao xiangdao xiangdao xiangdao xiangdao.
+
+xiangdao xiangdao xiangdao xiangdao xiangdao, xiangdao xiangdao xiangdao xiangdao xiangdao.
+
 十
+
+shi shi shi shi shi, shi shi shi shi shi.
+
+shi shi shi shi shi, shi shi shi shi shi.
 
 重要
 
+zhongyao zhongyao zhongyao zhongyao zhongyao, zhongyao zhongyao zhongyao zhongyao zhongyao.
+
+zhongyao zhongyao zhongyao zhongyao zhongyao, zhongyao zhongyao zhongyao zhongyao zhongyao.
+
 公司
+
+gongsi gongsi gongsi gongsi gongsi, gongsi gongsi gongsi gongsi gongsi.
+
+gongsi gongsi gongsi gongsi gongsi, gongsi gongsi gongsi gongsi gongsi.
 
 老人
 
+laoren laoren laoren laoren laoren, laoren laoren laoren laoren laoren.
+
+laoren laoren laoren laoren laoren, laoren laoren laoren laoren laoren.
+
 一会儿
+
+yihuer yihuer yihuer yihuer yihuer, yihuer yihuer yihuer yihuer yihuer.
+
+yihuer yihuer yihuer yihuer yihuer, yihuer yihuer yihuer yihuer yihuer.
 
 不好
 
+buhao buhao buhao buhao buhao, buhao buhao buhao buhao buhao.
+
+buhao buhao buhao buhao buhao, buhao buhao buhao buhao buhao.
+
+### 2022年08月19日
+
+身体
+
+shenti shenti shenti shenti shenti, shenti shenti shenti shenti shenti.
+
+shenti shenti shenti shenti shenti, shenti shenti shenti shenti shenti.
+
+自然
+
+ziran ziran ziran ziran ziran, ziran ziran ziran ziran ziran.
+
+ziran ziran ziran ziran ziran, ziran ziran ziran ziran ziran.
+
+唱
+
+chang chang chang chang chang, chang chang chang chang chang.
+
+chang chang chang chang chang, chang chang chang chang chang.
+
+好像
+
+haoxiang haoxiang haoxiang haoxiang haoxiang, haoxiang haoxiang haoxiang haoxiang haoxiang.
+
+haoxiang haoxiang haoxiang haoxiang haoxiang, haoxiang haoxiang haoxiang haoxiang haoxiang.
+
+一般
+
+yiban yiban yiban yiban yiban, yiban yiban yiban yiban yiban.
+
+yiban yiban yiban yiban yiban, yiban yiban yiban yiban yiban.
+
+干
+
+gan gan gan gan gan, gan gan gan gan gan.
+
+gan gan gan gan gan, gan gan gan gan gan.
+
+妈
+
+ma ma ma ma ma, ma ma ma ma ma.
+
+ma ma ma ma ma, ma ma ma ma ma.
+
+十分
+
+shifen shifen shifen shifen shifen, shifen shifen shifen shifen shifen.
+
+shifen shifen shifen shifen shifen, shifen shifen shifen shifen shifen.
+
+比较
+
+bijiao bijiao bijiao bijiao bijiao, bijiao bijiao bijiao bijiao bijiao.
+
+bijiao bijiao bijiao bijiao bijiao, bijiao bijiao bijiao bijiao bijiao.
+
+意思
+
+yisi yisi yisi yisi yisi, yisi yisi yisi yisi yisi.
+
+yisi yisi yisi yisi yisi, yisi yisi yisi yisi yisi.
+
 ### 2022年08月20日
+
+<font color="blue">订正：信，女儿，参加，胜</font>
 
 下午
 
+xiawu xiawu xiawu xiawu xiawu, xiawu xiawu xiawu xiawu xiawu.
+
+xiawu xiawu xiawu xiawu xiawu, xiawu xiawu xiawu xiawu xiawu.
+
 一点
+
+yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.
+
+yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.
 
 正在
 
+zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.
+
+zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.
+
 边
+
+bian bian bian bian bian, bian bian bian bian bian.
+
+bian bian bian bian bian, bian bian bian bian bian.
 
 家庭
 
+jiating jiating jiating jiating jiating, jiating jiating jiating jiating jiating.
+
+jiating jiating jiating jiating jiating, jiating jiating jiating jiating jiating.
+
 认识
+
+renshi renshi renshi renshi renshi, renshi renshi renshi renshi renshi.
+
+renshi renshi renshi renshi renshi, renshi renshi renshi renshi renshi.
 
 声音
 
+shenying shenying shenying shenying shenying, shenying shenying shenying shenying shenying.
+
+shenying shenying shenying shenying shenying, shenying shenying shenying shenying shenying.
+
 总是
+
+zongshi zongshi zongshi zongshi zongshi, zongshi zongshi zongshi zongshi zongshi.
+
+zongshi zongshi zongshi zongshi zongshi, zongshi zongshi zongshi zongshi zongshi.
 
 变
 
+bian bian bian bian bian, bian bian bian bian bian.
+
+bian bian bian bian bian, bian bian bian bian bian.
+
 动物
+
+dongwu dongwu dongwu dongwu dongwu, dongwu dongwu dongwu dongwu dongwu.
+
+dongwu dongwu dongwu dongwu dongwu, dongwu dongwu dongwu dongwu dongwu.
 
 ### 2022年08月21日
 
 号
 
+hao hao hao hao hao, hao hao hao hao hao.
+
+hao hao hao hao hao, hao hao hao hao hao.
+
 听说
+
+tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.
+
+tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.
 
 由
 
+you you you you you, you you you you you.
+
+you you you you you, you you you you you.
+
 最后
+
+zuihou zuihou zuihou zuihou zuihou, zuihou zuihou zuihou zuihou zuihou.
+
+zuihou zuihou zuihou zuihou zuihou, zuihou zuihou zuihou zuihou zuihou.
 
 发展
 
+fazhan fazhan fazhan fazhan fazhan, fazhan fazhan fazhan fazhan fazhan.
+
+fazhan fazhan fazhan fazhan fazhan, fazhan fazhan fazhan fazhan fazhan.
+
 同
+
+tong tong tong tong tong, tong tong tong tong tong.
+
+tong tong tong tong tong,tong tong tong tong tong.
 
 则
 
+ze ze ze ze ze, ze ze ze ze ze.
+
+ze ze ze ze ze, ze ze ze ze ze.
+
 准备
+
+zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.
+
+zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.
 
 米
 
+mi mi mi mi mi, mi mi mi mi mi.
+
+mi mi mi mi mi, mi mi mi mi mi.
+
 跳
+
+tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
+
+tiao tiao tiao tiao tiao, tiao tiao tiao tiao tiao.
 
 ### 2022年08月22日
 
 因此
 
+yinci yinci yinci yinci yinci, yinci yinci yinci yinci yinci.
+
+yinci yinci yinci yinci yinci, yinci yinci yinci yinci yinci.
+
 读
+
+du du du du du, du du du du du.
+
+du du du du du, du du du du du.
 
 似乎
 
+sihu sihu sihu sihu sihu, sihu sihu sihu sihu sihu.
+
+sihu sihu sihu sihu sihu, sihu sihu sihu sihu sihu.
+
 它们
+
+tamen tamen tamen tamen tamen, tamen tamen tamen tamen tamen.
+
+tamen tamen tamen tamen tamen, tamen tamen tamen tamen tamen.
 
 下去
 
+xiaqu xiaqu xiaqu xiaqu xiaqu, xiaqu xiaqu xiaqu xiaqu xiaqu.
+
+xiaqu xiaqu xiaqu xiaqu xiaqu, xiaqu xiaqu xiaqu xiaqu xiaqu.
+
 不少
+
+bushao bushao bushao bushao bushao, bushao bushao bushao bushao bushao.
+
+bushao bushao bushao bushao bushao, bushao bushao bushao bushao bushao.
 
 酒
 
+jiu jiu jiu jiu jiu, jiu jiu jiu jiu jiu.
+
+jiu jiu jiu jiu jiu, jiu jiu jiu jiu jiu.
+
 睡
+
+shui shui shui shui shui, shui shui shui shui shui.
+
+shui shui shui shui shui, shui shui shui shui shui.
 
 心
 
+xin xin xin xin xin, xin xin xin xin xin.
+
+xin xin xin xin xin, xin xin xin xin xin.
+
 名
+
+min min min min min, min min min min min.
+
+min min min min min, min min min min min.
 
 ### 2022年08月23日
 
