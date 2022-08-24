@@ -2374,17 +2374,17 @@ xiawu xiawu xiawu xiawu xiawu, xiawu xiawu xiawu xiawu xiawu.
 
 xiawu xiawu xiawu xiawu xiawu, xiawu xiawu xiawu xiawu xiawu.
 
-一点 yidian
+一点
 
-<font color="red">yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.</font>
+yidian yidian yidian yidian yidian, yidian yidian yidian yidian yidian.
 
-<font color="red">yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.</font>
+yidian yidian yidian yidian yidian, yidian yidian yidian yidian yidian.
 
 正在 zhengzai
 
-<font color="red">zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.</font>
+<font color="red">zhengzai zhengzai zhengzai zhengzai zhengzai, zhengzai zhengzai zhengzai zhengzai zhengzai.</font>
 
-<font color="red">zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.</font>
+<font color="red">zhengzai zhengzai zhengzai zhengzai zhengzai, zhengzai zhengzai zhengzai zhengzai zhengzai.</font>
 
 边
 
@@ -2438,9 +2438,9 @@ hao hao hao hao hao, hao hao hao hao hao.
 
 听说 tingshuo
 
-<font color="red">tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.</font>
+<font color="red">tingshuo tingshuo tingshuo tingshuo tingshuo, tingshuo tingshuo tingshuo tingshuo tingshuo.</font>
 
-<font color="red">tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.</font>
+<font color="red">tingshuo tingshuo tingshuo tingshuo tingshuo, tingshuo tingshuo tingshuo tingshuo tingshuo.</font>
 
 由
 
@@ -2474,9 +2474,9 @@ ze ze ze ze ze, ze ze ze ze ze.
 
 准备 zhunbei
 
-<font color="red">zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.</font>
+<font color="red">zhunbei zhunbei zhunbei zhunbei zhunbei, zhunbei zhunbei zhunbei zhunbei zhunbei.</font>
 
-<font color="red">zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.</font>
+<font color="red">zhunbei zhunbei zhunbei zhunbei zhunbei, zhunbei zhunbei zhunbei zhunbei zhunbei.</font>
 
 米
 
@@ -2548,9 +2548,9 @@ xin xin xin xin xin, xin xin xin xin xin.
 
 名 ming
 
-<font color="red">min min min min min, min min min min min.</font>
+<font color="red">ming ming ming ming ming, ming ming ming ming ming.</font>
 
-<font color="red">min min min min min, min min min min min.</font>
+<font color="red">ming ming ming ming ming, ming ming ming ming ming.</font>
 
 ### 2022年08月23日
 
@@ -2618,21 +2618,174 @@ ba ba ba ba ba, ba ba ba ba ba.
 
 突然
 
+turan turan turan turan turan, turan turan turan turan turan.
+
+turan turan turan turan turan, turan turan turan turan turan.
+
 也许
+
+yexu yexu yexu yexu yexu, yexu yexu yexu yexu yexu.
+
+yexu yexu yexu yexu yexu, yexu yexu yexu yexu yexu.
 
 这时
 
+zheshi zheshi zheshi zheshi zheshi, zheshi zheshi zheshi zheshi zheshi.
+
+zheshi zheshi zheshi zheshi zheshi, zheshi zheshi zheshi zheshi zheshi.
+
 大学
+
+daxue daxue daxue daxue daxue, daxue daxue daxue daxue daxue.
+
+daxue daxue daxue daxue daxue, daxue daxue daxue daxue daxue.
 
 算
 
+suan suan suan suan suan, suan suan suan suan suan.
+
+suan suan suan suan suan, suan suan suan suan suan.
+
 越来越
+
+yuelaiyue yuelaiyue yuelaiyue yuelaiyue yuelaiyue, yuelaiyue yuelaiyue yuelaiyue yuelaiyue yuelaiyue.
+
+yuelaiyue yuelaiyue yuelaiyue yuelaiyue yuelaiyue, yuelaiyue yuelaiyue yuelaiyue yuelaiyue yuelaiyue.
 
 病
 
-回家
+bing bing bing bing bing, bing bing bing bing bing.
 
-那会
+bing bing bing bing bing, bing bing bing bing bing.
+
+回家 huijia
+
+<font color="red">huiga huiga</font> huijia huijia huijia, huijia huijia huijia huijia huijia.
+
+huijia huijia huijia huijia huijia, huijia huijia huijia huijia huijia.
+
+那会 nahui
+
+<font color="red">nahu nahu nahu nahu nahu, nahu nahu nahu nahu nahu.</font>
+
+<font color="red">nahu nahu nahu nahu nahu, nahu nahu nahu nahu nahu.</font>
 
 似的
 
+shide shide shide shide shide, shide shide shide shide shide.
+
+shide shide shide shide shide, shide shide shide shide shide.
+
+### 2022年08月25日
+
+作文
+
+文章
+
+描述
+
+没敢
+
+知识
+
+学习
+
+经历
+
+人生
+
+阅历
+
+优秀
+
+总之
+
+
+
+### 2022年08月26日
+
+丰富
+
+泉涌
+
+提升
+
+能力
+
+避免
+
+口水
+
+书籍
+
+笔记
+
+借鉴
+
+另外
+
+### 2022年08月27日
+
+总结
+
+模仿
+
+名家
+
+以后
+
+可以
+
+促进
+
+进步
+
+点评
+
+这样
+
+参考
+
+### 2022年08月28日
+
+现实
+
+懂得
+
+要求
+
+原则
+
+自身
+
+联系
+
+坚守
+
+属于
+
+本性
+
+刘翔
+
+### 2022年08月28日
+
+身披
+
+光荣
+
+赞赏
+
+收获
+
+亿万
+
+关注
+
+名利
+
+失去
+
+运动
+
+奔跑
