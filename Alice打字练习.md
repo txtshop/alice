@@ -2374,17 +2374,17 @@ xiawu xiawu xiawu xiawu xiawu, xiawu xiawu xiawu xiawu xiawu.
 
 xiawu xiawu xiawu xiawu xiawu, xiawu xiawu xiawu xiawu xiawu.
 
-一点
+一点 yidian
 
-yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.
+<font color="red">yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.</font>
 
-yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.
+<font color="red">yidien yidien yidien yidien yidien, yidien yidien yidien yidien yidien.</font>
 
-正在
+正在 zhengzai
 
-zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.
+<font color="red">zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.</font>
 
-zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.
+<font color="red">zhenzai zhenzai zhenzai zhenzai zhenzai, zhenzai zhenzai zhenzai zhenzai zhenzai.</font>
 
 边
 
@@ -2436,11 +2436,11 @@ hao hao hao hao hao, hao hao hao hao hao.
 
 hao hao hao hao hao, hao hao hao hao hao.
 
-听说
+听说 tingshuo
 
-tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.
+<font color="red">tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.</font>
 
-tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.
+<font color="red">tinshuo tinshuo tinshuo tinshuo tinshuo, tinshuo tinshuo tinshuo tinshuo tinshuo.</font>
 
 由
 
@@ -2472,11 +2472,11 @@ ze ze ze ze ze, ze ze ze ze ze.
 
 ze ze ze ze ze, ze ze ze ze ze.
 
-准备
+准备 zhunbei
 
-zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.
+<font color="red">zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.</font>
 
-zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.
+<font color="red">zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei, zhuenbei zhuenbei zhuenbei zhuenbei zhuenbei.</font>
 
 米
 
@@ -2546,11 +2546,11 @@ xin xin xin xin xin, xin xin xin xin xin.
 
 xin xin xin xin xin, xin xin xin xin xin.
 
-名
+名 ming
 
-min min min min min, min min min min min.
+<font color="red">min min min min min, min min min min min.</font>
 
-min min min min min, min min min min min.
+<font color="red">min min min min min, min min min min min.</font>
 
 ### 2022年08月23日
 
